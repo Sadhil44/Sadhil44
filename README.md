@@ -1,4 +1,4 @@
-# Hi, I’m Sadhil
+# this is sadhil
 
 **CMU | StatML + AI**
 I build **data products** and **machine learning** projects end-to-end — from **data collection + analysis** to **models + dashboards + simple apps**.
