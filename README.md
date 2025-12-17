@@ -1,8 +1,7 @@
 # Hi, I'm Sadhil
 
-**CMU | StatML + AI**
-I like tech, data, sports, history, and geography.
-Current Building
+**CMU | Statistics & Machine Learning + Business Analytics**
+I build *apps** and **machine learning** projects.
 ---
 
 ## 🔥 Featured Projects
