@@ -2,7 +2,7 @@
 
 **CMU | Statistics & Machine Learning + Business Analytics**
 
-I build *apps* and **machine learning** projects.
+I build **apps** and **machine learning** projects.
 ---
 
 ## 🔥 Featured Projects
