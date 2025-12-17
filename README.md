@@ -1,14 +1,8 @@
-# this is sadhil
+# Hi, I'm Sadhil
 
 **CMU | StatML + AI**
-I build **data products** and **machine learning** projects end-to-end — from **data collection + analysis** to **models + dashboards + simple apps**.
-
-### What I’m focused on right now
-
-* **Internships:** Data Science / ML / Analytics / SWE (product + data)
-* **Skills:** **Python, R, SQL**, ML fundamentals, and shipping small projects
-* **Projects:** One flagship ML app + one analytics dashboard + one research-style project
-
+I like tech, data, sports, history, and geography.
+Current Building
 ---
 
 ## 🔥 Featured Projects
@@ -40,11 +34,6 @@ I build **data products** and **machine learning** projects end-to-end — from 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="36" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
 </p>
 
 ---
