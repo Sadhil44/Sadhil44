@@ -1,9 +1,6 @@
 # Hi, I'm Sadhil
 
-**CMU | Statistics & Machine Learning + Business Analytics**
-
-I build **apps** and **machine learning** projects.
----
+**StatML+AI @ CMU **
 
 ## 🔥 Featured Projects
 
