@@ -31,7 +31,7 @@ Git • GitHub • Google Earth Engine • ArcGIS • Tableau • MongoDB
 
 ## 📊 Featured Projects
 
-### [Urban Heat Islands Prediction]([https://github.com/sadhilmehta/urban-heat-islands-prediction](https://github.com/Sadhil44/urban-heat-islands-prediction))
+### [Urban Heat Islands Prediction](https://github.com/Sadhil44/urban-heat-islands-prediction)
 Comprehensive analysis of UHI patterns across 10 global cities using Landsat 8 satellite imagery and Google Earth Engine
 - Implemented 3 predictive models: Random Forest (92% accuracy), Markov Chain, Cellular Automata
 - Processed geospatial data at 30m resolution across 5-year intervals
