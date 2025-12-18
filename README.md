@@ -2,23 +2,7 @@
 
 **StatML+AI @ CMU **
 
-## 🔥 Featured Projects
-
-* **AI GeoGuesser** — ML-powered geography guessing + interactive app
-  *Python • ML/CV • App*
-  Repo: *(link here)*
-
-* **Givr** — a full product-style app (UI + logic + workflows)
-  *Frontend/Backend • Product Engineering*
-  Repo: *(link here)*
-
-* **Urban Heat Island Forecasting** — predictive modeling + geospatial analysis
-  *ML • Remote Sensing • Evaluation*
-  Repo: *(link here)*
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
@@ -33,26 +17,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
 </p>
 
----
+## Contact
 
-## 📌 Highlights
-
-* Built ML + analytics projects with real datasets and clear evaluation
-* Comfortable with **data wrangling, modeling, and communicating results**
-* Interested in **ML engineering + applied data science** work
+* **Email:** [sadhil.mehta@gmail.com](mailto:sadhil.mehta@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/sadhil-mehta/](https://www.linkedin.com/in/sadhil-mehta/)
+* **Resume:** *https://drive.google.com/file/d/1F1z9KIJHWGCVGvPzP41iSO5BAUdc44v4/view?usp=sharing *
 
 ---
-
-## 📫 Contact
-
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
-* **LinkedIn:** [https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/your-link/)
-* **Resume:** *(link if you have a public version)*
-
----
-
-## ✅ This Break’s Goals
-
-* Finish **R + SQL** foundations + publish a small analytics repo
-* Complete **Deep Learning Specialization** modules + notes
-* Ship one deployable “ML app” project with a clean README + demo
