@@ -37,7 +37,7 @@ Comprehensive analysis of UHI patterns across 10 global cities using Landsat 8 s
 - Processed geospatial data at 30m resolution across 5-year intervals
 - **Award:** Governor's Thomas Edison Award for Excellence in Information Science
 
-### [TensorFlow Lite Model Comparison](https://github.com/sadhilmehta/tflite-models)
+### [TensorFlow Lite Model Comparison](https://github.com/Sadhil44/usd-currency-detection)
 Evaluated MobileNet and EfficientNet models for real-time image detection on edge devices
 - Automated testing pipelines using Python
 - Identified optimal models balancing latency and precision
