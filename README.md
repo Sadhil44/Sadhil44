@@ -1,5 +1,4 @@
 # Hi, I'm Sadhil 👋
-i like geography
 **StatML + AI @ Carnegie Mellon**
 
 I'm a first-year student passionate about using data science and machine learning to solve real-world problems—from predicting urban heat islands to optimizing gym occupancy. I love exploring the intersection of technology, policy, and social impact. I also love exploring the intersections of business, politics, and technology.
