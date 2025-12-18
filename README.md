@@ -64,16 +64,6 @@ Web scraping and data visualization tool for Pennsylvania sustainable developmen
 **Project Researcher** @ CMU SUDS Lab  
 *Partnering with Southwest Pennsylvania Authority on sustainable development platform*
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhilmehta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadhilmehta&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ## Contact Information
 
 - **Email:** [sadhil.mehta@gmail.com](mailto:sadhil.mehta@gmail.com)
