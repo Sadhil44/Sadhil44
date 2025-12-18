@@ -1,6 +1,6 @@
 # Hi, I'm Sadhil
 
-**StatML+AI @ CMU **
+StatML+AI @ CMU
 
 ## Tech Stack
 
